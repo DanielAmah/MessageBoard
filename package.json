@@ -1,5 +1,28 @@
 {
-  "name": "MessageBoard",
+  "name": "messageboard",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Message",
+    "Board"
+  ],
+  "author": "Daniel Amah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAmah/MessageBoard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielAmah/MessageBoard/issues"
+  },
+  "homepage": "https://github.com/DanielAmah/MessageBoard#readme"
 }
